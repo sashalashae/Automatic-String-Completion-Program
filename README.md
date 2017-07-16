@@ -18,11 +18,12 @@ The name of the file to read the strings from is taken from the command line. Th
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented program:
+Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/AkOe2cX.gifv' 'title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/ePwbWc3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 Copyright [2017] [Sasha Morgan]
 
