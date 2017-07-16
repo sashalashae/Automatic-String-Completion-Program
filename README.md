@@ -3,7 +3,7 @@
 By Sasha Morgan
 Class: ECE 2574
 
-Project Description:
+## Project Description:
 
 A nice feature of user interfaces is the ability to do string completion, effectively guessing what you are typing and giving you the option of just filling it in and saving keystrokes. This is used in many applications. For example most browsers can start guessing the url you are typing. Another is IDEs which can guess what types and names you are typing as you program, i.e. "Intellisense".
 
@@ -20,7 +20,7 @@ The name of the file to read the strings from is taken from the command line. Th
 
 Here's a walkthrough of implemented program:
 
-<img src='http://i.imgur.com/wZ8c8HB.gif' 'title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/AkOe2cX.gifv' 'title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
